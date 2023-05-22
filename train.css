@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    
+}
+
+
+.background {
+background-image: url(assets/image\ 1.png);
+position: absolute;
+width: 780px;
+height: 1170px;
+margin-left: 921px;
+}
+
+.calories {
+position: absolute;
+height: 223px;
+width: 166px;
+border-radius: 20px;
+margin-left: 1500px;
+margin-top: 300px;
+}
+
+.time {
+background-color: rgb(56, 55, 55);
+height: 98px;
+width: 166px;
+border-radius: 20px;    
+}
+.timeh {
+background-color: rgb(56, 55, 55);
+position: absolute;
+width: 106px;
+height: 40px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 40px;
+letter-spacing: 1px;
+color: #FFE642;
+margin-top: 20px;
+margin-left: 30px;
+}
+
+.timep {
+background-color: rgb(56, 55, 55);
+margin-bottom: 20px;    
+margin-left: 30px;    
+margin-top: 65px;
+position: absolute;
+width: 32px;
+height: 13px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 1px;
+color: #FFFFFF;
+}
+
+.cal {
+background-color: rgb(56, 55, 55);
+margin-top: 20px;
+height: 105px;
+width: 170px;
+border-radius:20px;
+
+}
+
+.calh {
+    margin-top: 30px;
+    margin-left: 30px;
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #FB1351;
+    background-color: rgb(56, 55, 55);
+}
+.calp {
+margin-top: 75px;
+margin-left: 20px;
+background-color: rgb(56, 55, 55);
+position: absolute;
+width: 106px;
+height: 20px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+letter-spacing: 1px;
+color: #FFFFFF;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+
+.WORKOUT {
+height: 22px;
+width: 100px;
+border-radius: nullpx;
+font-family: 'Poppins';
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 1px;
+color: white;
+margin-left: 120px;
+}
+
+.ha 
+{
+    text-decoration: none;
+}
+
+.a {
+height: 12px;
+width: 72px;
+border-radius: nullpx;
+gap: 50px;
+color: white;
+text-decoration: none;
+font-family: 'Poppins';
+font-size: 12px;
+font-weight: 400;
+line-height: 12px;
+letter-spacing: 1.5px;
+opacity: 67%;
+}
+
+.nav {
+    display: flex;
+    gap: 50px;
+    margin-right: 89px;
+}
+
+.Intensity {
+height: 36px;
+width: 329px;
+border-radius: 200px;
+background-color: rgb(70, 69, 69);
+margin-top: 131px;
+color: white;
+display: flex;
+opacity: 80%;
+gap:25px;
+margin-left: 120px;
+border-radius: 50px;
+align-items: center;
+}
+
+.button {
+height: 26px;
+width: 46px;
+border-radius: 200px;
+position: absolute;
+background: #25AB75;
+color: white;
+text-decoration: none;
+text-align: center;
+padding-top: 4px;
+}
+
+.green {
+    margin-bottom: 27px;
+    margin-left: 5px;
+}
+
+.p1 {
+    background-color:rgb(70, 69, 69) ;
+    padding-left: 20px;
+    margin-left: 15px;
+}
+
+.cardio {
+position: absolute;
+display: flex;
+color: white;
+height: 384px;
+width: 871px;
+margin-left: 58px;
+margin-top: 16px;
+}
+.cardio1 {
+height: 340px;
+width: 814px;
+border-radius: nullpx;
+font-family: 'Poppins';
+font-size: 200px;
+font-weight: 600;
+line-height: 170px;
+letter-spacing: -2px;
+text-align: left;
+margin-left:45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
